@@ -3,7 +3,7 @@
 This step deploy Go Apps to Google App Engine using OAuth2 Refresh Token.
 It depends on `pjvds/setup-go-workspace` to setup the Go workspace first.
 
-If you use email and password when deploy Go Apps to Google App Engine,
+If you use email and password when deploy Go Apps to Google App Engine, you can use `pjvds/appengine-deploy`.
 
 # Options
 
