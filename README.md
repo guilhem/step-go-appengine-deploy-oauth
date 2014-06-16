@@ -1,3 +1,5 @@
+[![wercker status](https://app.wercker.com/status/4fe42be79ba4143131566d772fbfc2bb/m "wercker status")](https://app.wercker.com/project/bykey/4fe42be79ba4143131566d772fbfc2bb)
+
 # Go App Engine Deploy via oauth
 
 This step deploy Go Apps to Google App Engine using OAuth2 Refresh Token.
