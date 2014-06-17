@@ -1,5 +1,5 @@
 name: go-appengine-deploy-oauth
-version: 0.0.2
+version: 0.0.3
 description: Deploy Go software to Google's AppEngine via oauth2
 properties:
   token:

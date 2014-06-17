@@ -20,4 +20,4 @@ If you use email and password when deploy Go Apps to Google App Engine, you can 
         - pjvds/setup-go-workspace
 
         - taka011239/go-appengine-deploy-oauth
-            token: xxxxxxxx
+            token: $APP_ENGINE_TOKEN
