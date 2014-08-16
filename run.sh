@@ -4,8 +4,8 @@ sudo apt-get install unzip
 cd $WERCKER_ROOT
 debug 'Downloading AppEngine SDK...'
 
-curl -O https://storage.googleapis.com/appengine-sdks/featured/go_appengine_sdk_linux_amd64-1.9.6.zip
-unzip -q go_appengine_sdk_linux_amd64-1.9.6.zip
+curl -O https://storage.googleapis.com/appengine-sdks/featured/go_appengine_sdk_linux_amd64-1.9.9.zip
+unzip -q go_appengine_sdk_linux_amd64-1.9.9.zip
 export PATH="$PATH:$(pwd)/go_appengine"
 
 cd $WERCKER_SOURCE_DIR
